@@ -2,6 +2,6 @@
   "version": 2,
   "rewrites": [
     { "source": "/api/(.*)", "destination": "/skillsync-ai/server/index.js" },
-    { "source": "/(.*)", "destination": "/skillsync-ai/client/dist/$1" }
+    { "source": "/(.*)", "destination": "/public/$1" }
   ]
 }
