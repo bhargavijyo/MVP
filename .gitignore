@@ -1,0 +1,8 @@
+skillsync-ai/node_modules/
+skillsync-ai/client/node_modules/
+skillsync-ai/server/node_modules/
+.env
+.DS_Store
+.idea/
+.vscode/
+.gemini/
