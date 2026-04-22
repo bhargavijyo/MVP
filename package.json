@@ -1,0 +1,7 @@
+{
+  "name": "skillsync-monorepo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd skillsync-ai/client && npm install && npm run build"
+  }
+}
